@@ -1,0 +1,17 @@
+.container {
+ text-align: center;
+}
+
+#newsletter{
+    font-family: 'Kaushan Script', cursive;
+    font-size: 70px;
+    font-weight: bold;
+}
+
+#podziekowanie{
+    font-size: 20px;
+}
+
+#ebook{
+    font-size: 20px;
+}

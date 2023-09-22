@@ -1,0 +1,50 @@
+
+.container {
+    width: 600px !important;
+    padding-top: 20px;
+    padding-bottom: 35px;
+    text-align: center;
+    box-shadow: 3px 2px 20px rgba(0, 0, 0, 1);
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+
+#newsletter{
+    font-family: 'Kaushan Script', cursive;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.form-group {
+    margin: 0 auto;
+    width: 300px;
+}
+
+
+#submit{
+    background-color: green;
+    font-size: 25px;
+    color: white;
+    border-color: green;
+    width: 400px;
+}
+
+.contents{
+
+}
+
+#text{
+    width: 50%;
+    float: right;
+    text-align: justify;
+}
+
+#ebook{
+    float:left;
+    width: 50%;
+}
+

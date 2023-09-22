@@ -1,0 +1,23 @@
+
+#container{
+    width: auto;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    margin: auto;
+}
+
+#newsletterr{
+    font-family: 'Kaushan Script', cursive;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+#Newsletter{
+    border: 0;
+}
+
+#Wylogowanie{
+    text-align: center;
+}
+
