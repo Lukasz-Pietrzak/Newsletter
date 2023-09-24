@@ -54,7 +54,7 @@
 
             $mail->Username   = 'lukobyznes@gmail.com';                     //SMTP username
 
-            $mail->Password   = 'aukmhxillzyejpvq';                               //SMTP password
+            $mail->Password   = 'geiuptzdzklvxzra';                               //SMTP password
 
             $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;            //Enable implicit TLS encryption
 
@@ -116,6 +116,7 @@
 //        }
 //
 //        save_mail($mail);
+
         $_SESSION['ebook_sended'] = true;
         header("Location: Ebook-podziekowanie.php");
         exit();
